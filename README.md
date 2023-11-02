@@ -75,11 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 BARUA was created with love and inspiration from the Swahili word for "letters." We hope it simplifies your letter writing tasks.
 
----
-
-Feel free to customize the README with additional information about your project, such as the project structure, API usage, or any special instructions.
-```
-
 You can simply copy and paste this content into a file named "README.md" in your project directory to create your README file.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
