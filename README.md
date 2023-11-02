@@ -14,6 +14,9 @@ Before you begin, ensure you have the following software installed on your syste
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (usually included with Node.js)
+- [pnpm](https://www.npmjs.com/) (usually included with Node.js)
+- [bun](https://www.npmjs.com/) (v1.0 or higher)
+
 
 ## Getting Started
 
