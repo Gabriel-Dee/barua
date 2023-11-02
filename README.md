@@ -1,6 +1,3 @@
-Certainly! Here's the entire README.md content in markdown format:
-
-```markdown
 # BARUA - Simplify Your Letter Writing
 
 BARUA, which means "letters" in Swahili, is a web application built to streamline the letter writing process. It allows users to easily create different types of letters by selecting a template and providing the necessary details. Once the details are entered, BARUA generates a downloadable and printable version of the letter.
