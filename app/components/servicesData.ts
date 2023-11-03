@@ -1,33 +1,18 @@
 export const services = [
     {
-      title: 'SEO Services',
+      title: 'Writing Services',
       icon: 'bi-search',
-      description: 'This is a wider card with supporting text below as a natural content.',
+      description: 'We provide writing services you give us your content we give you your letter.',
     },
     {
-      title: 'Social Content',
+      title: 'Downloading Content',
       icon: 'bi-chat-square-dots',
-      description: 'This is a wider card with supporting text below as a natural content.',
+      description: 'We provide you with the ability to download and edit your letter after creation',
     },
     {
-      title: 'Creative ads',
+      title: 'Creative Templates',
       icon: 'bi-badge-ad',
-      description: 'This is a wider card with supporting text below as a natural content.',
-    },
-    {
-      title: 'Brand Identity',
-      icon: 'bi-card-checklist',
-      description: 'This is a wider card with supporting text below as a natural content.',
-    },
-    {
-      title: 'Budget & Marketing',
-      icon: 'bi-wallet2',
-      description: 'This is a wider card with supporting text below as a natural content.',
-    },
-    {
-      title: 'Optimize conversions',
-      icon: 'bi-funnel',
-      description: 'This is a wider card with supporting text below as a natural content.',
+      description: 'We provide you with a pool of templates to choose from based on your needs.',
     },
   ];
   
