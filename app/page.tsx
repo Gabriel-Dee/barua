@@ -6,6 +6,7 @@ import CTA from './components/CTA'
 import Footer from './components/Footer'
 import Hero from './components/Hero'
 import Feature from './components/Feature'
+import ContactForm from './components/Contact'
 
 function Page() {
   return (
@@ -15,6 +16,7 @@ function Page() {
       <Feature />
       <CTA />
       <Services />
+      <ContactForm />
       <Footer />
     </>
 
